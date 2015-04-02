@@ -5,7 +5,7 @@ require(reshape2)
 ###### CHANGE ME
 ###### Point to right directory where the data is located 
 ########################
-setwd("~/Work/Projects/NodPwkF1/data")
+setwd("~/Work/Projects/vizASE/data")
 nod.exp=read.table("NOD-allele-exp-for-Shiny.txt", header=T)
 pwk.exp=read.table("PWK-allele-exp-for-Shiny.txt", header=T)
 gene.info=read.table("gene-info-Shiny.txt", header=T)

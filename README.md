@@ -1,6 +1,8 @@
 # vizASE
 A Shiny app for visualizing gene-level and allele-level expressions from NODxPWK reciprocal F1 stududy, interactively.
 
+![Interactive plots](/images/vizASE-Shiny-example.png)
+
 Software requirements:
 * R
 * Shiny (http://shiny.rstudio.com/)
