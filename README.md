@@ -2,10 +2,10 @@
 A Shiny app for visualizing gene-level and allele-level expressions from NODxPWK reciprocal F1 stududy, interactively.
 
 Software requirements:
--- R
--- Shiny (http://shiny.rstudio.com/)
--- ggplot2
--- reshape2
+* R
+* Shiny (http://shiny.rstudio.com/)
+* ggplot2
+* reshape2
 
 ---vizASENxP---
 
